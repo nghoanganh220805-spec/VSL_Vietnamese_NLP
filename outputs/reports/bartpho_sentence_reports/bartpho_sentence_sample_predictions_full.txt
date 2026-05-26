@@ -1,0 +1,1050 @@
+Gloss: bo can keo khong
+Target: Bố có cần kẹo không?
+Predict: Bố có cần kẹo không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam con_gai dang nghi
+Target: Năm con gái đang nghỉ.
+Predict: Năm con gái đang nghỉ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bay_gio chi dang xem
+Target: Bây giờ chị đang xem.
+Predict: Bây giờ chị đang xem.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_bay me lam_viec
+Target: Thứ bảy mẹ làm việc.
+Predict: Thứ bảy mẹ làm việc.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu em dang tap_the_duc
+Target: Buổi chiều em đang tập thể dục.
+Predict: Buổi chiều em đang tập thể dục.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_trua anh dang di_cho
+Target: Buổi trưa anh đang đi chợ.
+Predict: Buổi trưa anh đang đi chợ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi muon chin sua
+Target: Tôi muốn chín sữa.
+Predict: Tôi muốn chín sữa.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai anh bi dau_bung
+Target: Thứ hai anh bị đau bụng.
+Predict: Thứ hai anh bị đau bụng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi can hai_muoi chao
+Target: Tôi cần hai mươi cháo.
+Predict: Tôi cần hai mươi cháo.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bo mat den
+Target: Bố mất đèn.
+Predict: Bố mất đèn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: con_trai thich dong_ho
+Target: Con trai thích đồng hồ.
+Predict: Con trai thích đồng hồ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong muon hai ban_phim
+Target: Ông muốn hai bàn phím.
+Predict: Ông muốn hai bàn phím.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_qua con_trai dang nghe
+Target: Hôm qua con trai đang nghe.
+Predict: Hôm qua con trai đang nghe.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu ban dang noi
+Target: Buổi chiều bạn đang nói.
+Predict: Buổi chiều bạn đang nói.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_qua ba dang noi
+Target: Hôm qua bà đang nói.
+Predict: Hôm qua bà đang nói.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu bao khong
+Target: Thứ tư có bão không?
+Predict: Thứ tư có bão không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: co bi bi_thuong can goi_bac_si
+Target: Cô bị bị thương, cần gọi bác sĩ.
+Predict: Cô bị bị thương, cần gọi bác sĩ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_trua em bi dau
+Target: Buổi trưa em bị đau.
+Predict: Buổi trưa em bị đau.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong khong muon kinh
+Target: Ông không muốn kính.
+Predict: Ông không muốn kính.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong anh dang tap_the_duc
+Target: Mùa đông anh đang tập thể dục.
+Predict: Mùa đông anh đang tập thể dục.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu ba dang lam_viec
+Target: Thứ tư bà đang làm việc.
+Predict: Thứ tư bà đang làm việc.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_nam chi dang nghe
+Target: Thứ năm chị đang nghe.
+Predict: Thứ năm chị đang nghe.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_nam thay_giao dang tap_the_duc
+Target: Thứ năm thầy giáo đang tập thể dục.
+Predict: Thứ năm thầy giáo đang tập thể dục.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong muon bun o phong_kham
+Target: Ông muốn bún ở phòng khám.
+Predict: Ông muốn bún ở phòng khám.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai chi dang nghe
+Target: Thứ hai chị đang nghe.
+Predict: Thứ hai chị đang nghe.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong thich chao
+Target: Ông thích cháo.
+Predict: Ông thích cháo.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay con_gai bi dau_hong
+Target: Ngày con gái bị đau họng.
+Predict: Ngày con gái bị đau họng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai chung_toi bi kho_tho
+Target: Ngày mai chúng tôi bị khó thở.
+Predict: Ngày mai chúng tôi bị khó thở.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_qua nguoi_khiem_thinh bi cam_lanh
+Target: Hôm qua người khiếm thính bị cảm lạnh.
+Predict: Hôm qua người khiếm thính bị cảm lạnh.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: anh thich rau
+Target: Anh thích rau.
+Predict: Anh thích rau.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai toi dang lam_bai_tap
+Target: Thứ hai tôi đang làm bài tập.
+Predict: Thứ hai tôi đang làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi muon sua o cho
+Target: Tôi muốn sữa ở chợ.
+Predict: Tôi muốn sữa ở chợ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: em di van_phong
+Target: Em đi văn phòng.
+Predict: Em đi văn phòng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: chu_nhat chi doc_sach
+Target: Chủ nhật chị đọc sách.
+Predict: Chủ nhật chị đọc sách.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me muon mot_tram tivi
+Target: Mẹ muốn một trăm ti vi.
+Predict: Mẹ muốn một trăm ti vi.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: benh_nhan can goi_bac_si khong
+Target: Bệnh nhân có cần gọi bác sĩ không?
+Predict: Bệnh nhân có cần gọi bác sĩ không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang benh_nhan bi dau_lung
+Target: Tháng bệnh nhân bị đau lưng.
+Predict: Tháng bệnh nhân bị đau lưng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang co_giao dang uong
+Target: Tháng cô giáo đang uống.
+Predict: Tháng cô giáo đang uống.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong chi lam_bai_tap
+Target: Mùa đông chị làm bài tập.
+Predict: Mùa đông chị làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: co muon xe_cuu_thuong
+Target: Cô muốn xe cứu thương.
+Predict: Cô muốn xe cứu thương.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai em dang uong
+Target: Ngày mai em đang uống.
+Predict: Ngày mai em đang uống.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me muon mua tra
+Target: Mẹ muốn mua trà.
+Predict: Mẹ muốn mua trà.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bo thich nuoc
+Target: Bố thích nước.
+Predict: Bố thích nước.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_ba chi dang choi
+Target: Thứ ba chị đang chơi.
+Predict: Thứ ba chị đang chơi.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong bi dau_dau nen can com
+Target: Ông bị đau đầu nên cần cơm.
+Predict: Ông bị đau đầu nên cần cơm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu bo noi
+Target: Buổi chiều bố nói.
+Predict: Buổi chiều bố nói.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thay_giao muon di phong_ngu
+Target: Thầy giáo muốn đi phòng ngủ.
+Predict: Thầy giáo muốn đi phòng ngủ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: chi bi di_ung nen can goi_bac_si
+Target: Chị bị dị ứng nên cần gọi bác sĩ.
+Predict: Chị bị dị ứng nên cần gọi bác sĩ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bay_gio bo noi
+Target: Bây giờ bố nói.
+Predict: Bây giờ bố nói.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_toi ong dang viet
+Target: Buổi tối ông đang viết.
+Predict: Buổi tối ông đang viết.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai thay_giao hoc_bai
+Target: Ngày mai thầy giáo học bài.
+Predict: Ngày mai thầy giáo học bài.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_nay ong dang nghi
+Target: Hôm nay ông đang nghỉ.
+Predict: Hôm nay ông đang nghỉ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong muon mot_tram but
+Target: Ông muốn một trăm bút.
+Predict: Ông muốn một trăm bút.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay thay_giao bi buon_non
+Target: Ngày thầy giáo bị buồn nôn.
+Predict: Ngày thầy giáo bị buồn nôn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai ban an
+Target: Ngày mai bạn ăn.
+Predict: Ngày mai bạn ăn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay co dang di_cho
+Target: Ngày cô đang đi chợ.
+Predict: Ngày cô đang đi chợ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam anh bi cam_lanh
+Target: Năm anh bị cảm lạnh.
+Predict: Năm anh bị cảm lạnh.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai ong bi kho_tho
+Target: Ngày mai ông bị khó thở.
+Predict: Ngày mai ông bị khó thở.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_bay con_trai dang nghi
+Target: Thứ bảy con trai đang nghỉ.
+Predict: Thứ bảy con trai đang nghỉ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_sang co_may khong
+Target: Buổi sáng có có mây không?
+Predict: Buổi sáng có có mây không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi can bon banh_mi
+Target: Tôi cần bốn bánh mì.
+Predict: Tôi cần bốn bánh mì.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai bo dang giat_do
+Target: Ngày mai bố đang giặt đồ.
+Predict: Ngày mai bố đang giặt đồ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai con_trai bi ho
+Target: Thứ hai con trai bị ho.
+Predict: Thứ hai con trai bị ho.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai me dang tam
+Target: Thứ hai mẹ đang tắm.
+Predict: Thứ hai mẹ đang tắm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban se tam
+Target: Bạn sẽ tắm.
+Predict: Bạn sẽ tắm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay co_giao bi dau_tay
+Target: Ngày cô giáo bị đau tay.
+Predict: Ngày cô giáo bị đau tay.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: chi dang noi
+Target: Chị đang nói.
+Predict: Chị đang nói.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay ban bi buon_non
+Target: Ngày bạn bị buồn nôn.
+Predict: Ngày bạn bị buồn nôn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: anh mat noi_com_dien
+Target: Anh mất nồi cơm điện.
+Predict: Anh mất nồi cơm điện.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: chi muon chao o phong_kham
+Target: Chị muốn cháo ở phòng khám.
+Predict: Chị muốn cháo ở phòng khám.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_trua ban dang rua_tay
+Target: Buổi trưa bạn đang rửa tay.
+Predict: Buổi trưa bạn đang rửa tay.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: em bi dau_tay nen can goi_y_ta
+Target: Em bị đau tay nên cần gọi y tá.
+Predict: Em bị đau tay nên cần gọi y tá.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang con_trai dang ngu
+Target: Tháng con trai đang ngủ.
+Predict: Tháng con trai đang ngủ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: con_gai thich keo
+Target: Con gái thích kẹo.
+Predict: Con gái thích kẹo.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bo muon di nha_ve_sinh
+Target: Bố muốn đi nhà vệ sinh.
+Predict: Bố muốn đi nhà vệ sinh.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thay_giao muon ghe
+Target: Thầy giáo muốn ghế.
+Predict: Thầy giáo muốn ghế.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam bo dang doc_sach
+Target: Năm bố đang đọc sách.
+Predict: Năm bố đang đọc sách.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu bo di_hoc
+Target: Thứ tư bố đi học.
+Predict: Thứ tư bố đi học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay ong bi dau
+Target: Ngày ông bị đau.
+Predict: Ngày ông bị đau.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_nay nguoi_khiem_thinh bi dau_hong
+Target: Hôm nay người khiếm thính bị đau họng.
+Predict: Hôm nay người khiếm thính bị đau họng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam co_giao hoc_bai
+Target: Năm cô giáo học bài.
+Predict: Năm cô giáo học bài.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai me doc_sach
+Target: Thứ hai mẹ đọc sách.
+Predict: Thứ hai mẹ đọc sách.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong nguoi_khiem_thinh dang tap_the_duc
+Target: Mùa đông người khiếm thính đang tập thể dục.
+Predict: Mùa đông người khiếm thính đang tập thể dục.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong toi lam_bai_tap
+Target: Mùa đông tôi làm bài tập.
+Predict: Mùa đông tôi làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay bo bi bi_thuong
+Target: Ngày bố bị bị thương.
+Predict: Ngày bố bị bị thương.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: quan cham
+Target: Quần chậm.
+Predict: Quần chậm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam ba bi dau_hong
+Target: Năm bà bị đau họng.
+Predict: Năm bà bị đau họng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu toi dang lam_bai_tap
+Target: Thứ tư tôi đang làm bài tập.
+Predict: Thứ tư tôi đang làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu thay_giao lam_viec
+Target: Buổi chiều thầy giáo làm việc.
+Predict: Buổi chiều thầy giáo làm việc.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bay_gio toi dang choi
+Target: Bây giờ tôi đang chơi.
+Predict: Bây giờ tôi đang chơi.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_sau em bi met
+Target: Thứ sáu em bị mệt.
+Predict: Thứ sáu em bị mệt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: con_gai can ca_phe khong
+Target: Con gái có cần cà phê không?
+Predict: Con gái có cần cà phê không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam ba di_hoc
+Target: Năm bà đi học.
+Predict: Năm bà đi học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam co lam_bai_tap
+Target: Năm cô làm bài tập.
+Predict: Năm cô làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu benh_nhan bi chong_mat
+Target: Buổi chiều bệnh nhân bị chóng mặt.
+Predict: Buổi chiều bệnh nhân bị chóng mặt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me can mot_tram den
+Target: Mẹ cần một trăm đèn.
+Predict: Mẹ cần một trăm đèn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang co di_hoc
+Target: Tháng cô đi học.
+Predict: Tháng cô đi học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_hai chung_toi dang nghe
+Target: Thứ hai chúng tôi đang nghe.
+Predict: Thứ hai chúng tôi đang nghe.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_sau thay_giao bi dau_hong
+Target: Thứ sáu thầy giáo bị đau họng.
+Predict: Thứ sáu thầy giáo bị đau họng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_ba co_giao bi dau_lung
+Target: Thứ ba cô giáo bị đau lưng.
+Predict: Thứ ba cô giáo bị đau lưng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban khong muon sac_pin
+Target: Bạn không muốn sạc pin.
+Predict: Bạn không muốn sạc pin.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me bi dau_lung nen can thuc_an
+Target: Mẹ bị đau lưng nên cần thức ăn.
+Predict: Mẹ bị đau lưng nên cần thức ăn.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang chi dang mua_sam
+Target: Tháng chị đang mua sắm.
+Predict: Tháng chị đang mua sắm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_he nguoi_khiem_thinh bi sot
+Target: Mùa hè người khiếm thính bị sốt.
+Predict: Mùa hè người khiếm thính bị sốt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu ong bi bi_thuong
+Target: Thứ tư ông bị bị thương.
+Predict: Thứ tư ông bị bị thương.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me muon pho o lop_hoc
+Target: Mẹ muốn phở ở lớp học.
+Predict: Mẹ muốn phở ở lớp học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban muon hai_muoi bun
+Target: Bạn muốn hai mươi bún.
+Predict: Bạn muốn hai mươi bún.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong bo dang hoc_bai
+Target: Mùa đông bố đang học bài.
+Predict: Mùa đông bố đang học bài.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_toi con_gai bi bi_thuong
+Target: Buổi tối con gái bị bị thương.
+Predict: Buổi tối con gái bị bị thương.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me khong_thich thit
+Target: Mẹ không thích thịt.
+Predict: Mẹ không thích thịt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban khong doc_sach
+Target: Bạn không đọc sách.
+Predict: Bạn không đọc sách.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: gia_dinh can kinh
+Target: Gia đình cần kính.
+Predict: Gia đình cần kính.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong ba dang lam_bai_tap
+Target: Mùa đông bà đang làm bài tập.
+Predict: Mùa đông bà đang làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: co_giao di giuong
+Target: Cô giáo đi giường.
+Predict: Cô giáo đi giường.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_chieu chi dang chay
+Target: Buổi chiều chị đang chạy.
+Predict: Buổi chiều chị đang chạy.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_qua me bi chong_mat
+Target: Hôm qua mẹ bị chóng mặt.
+Predict: Hôm qua mẹ bị chóng mặt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_trua ban se di truong
+Target: Buổi trưa bạn sẽ đi trường.
+Predict: Buổi trưa bạn sẽ đi trường.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bo se lam_bai_tap
+Target: Bố sẽ làm bài tập.
+Predict: Bố sẽ làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_bay co nghe
+Target: Thứ bảy cô nghe.
+Predict: Thứ bảy cô nghe.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu thay_giao bi chay_mau
+Target: Thứ tư thầy giáo bị chảy máu.
+Predict: Thứ tư thầy giáo bị chảy máu.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ong muon chin dien_thoai
+Target: Ông muốn chín điện thoại.
+Predict: Ông muốn chín điện thoại.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: bo bi ho nen can nuoc
+Target: Bố bị ho nên cần nước.
+Predict: Bố bị ho nên cần nước.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: em dang viet
+Target: Em đang viết.
+Predict: Em đang viết.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: chu_nhat chung_toi bi chong_mat
+Target: Chủ nhật chúng tôi bị chóng mặt.
+Predict: Chủ nhật chúng tôi bị chóng mặt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_trua bo dang di_bo
+Target: Buổi trưa bố đang đi bộ.
+Predict: Buổi trưa bố đang đi bộ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong thay_giao bi dau_lung
+Target: Mùa đông thầy giáo bị đau lưng.
+Predict: Mùa đông thầy giáo bị đau lưng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: buoi_toi thay_giao dang hoc_bai
+Target: Buổi tối thầy giáo đang học bài.
+Predict: Buổi tối thầy giáo đang học bài.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ba di lop_hoc
+Target: Bà đi lớp học.
+Predict: Bà đi lớp học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_ba chung_toi bi dau_bung
+Target: Thứ ba chúng tôi bị đau bụng.
+Predict: Thứ ba chúng tôi bị đau bụng.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thang co_giao bi chong_mat
+Target: Tháng cô giáo bị chóng mặt.
+Predict: Tháng cô giáo bị chóng mặt.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi muon nam pho
+Target: Tôi muốn năm phở.
+Predict: Tôi muốn năm phở.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban muon chin banh_mi
+Target: Bạn muốn chín bánh mì.
+Predict: Bạn muốn chín bánh mì.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay bo bi chay_mau
+Target: Ngày bố bị chảy máu.
+Predict: Ngày bố bị chảy máu.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi muon chin may_tinh
+Target: Tôi muốn chín máy tính.
+Predict: Tôi muốn chín máy tính.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_nay bo ngu
+Target: Hôm nay bố ngủ.
+Predict: Hôm nay bố ngủ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_dong chi dang xem
+Target: Mùa đông chị đang xem.
+Predict: Mùa đông chị đang xem.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: co can kinh_lup khong
+Target: Cô có cần kính lúp không?
+Predict: Cô có cần kính lúp không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_tu ong dang doc_sach
+Target: Thứ tư ông đang đọc sách.
+Predict: Thứ tư ông đang đọc sách.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi khong xem
+Target: Tôi không xem.
+Predict: Tôi không xem.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_nay ban se di lop_hoc
+Target: Hôm nay bạn sẽ đi lớp học.
+Predict: Hôm nay bạn sẽ đi lớp học.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi muon sau nuoc_cam
+Target: Tôi muốn sáu nước cam.
+Predict: Tôi muốn sáu nước cam.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: hom_qua anh se di truong
+Target: Hôm qua anh sẽ đi trường.
+Predict: Hôm qua anh sẽ đi trường.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ban can mot_tram bun
+Target: Bạn cần một trăm bún.
+Predict: Bạn cần một trăm bún.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: me bi ho nen can nuoc
+Target: Mẹ bị ho nên cần nước.
+Predict: Mẹ bị ho nên cần nước.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: benh_nhan thich giay
+Target: Bệnh nhân thích giày.
+Predict: Bệnh nhân thích giày.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: ngay_mai co_giao dang nghi
+Target: Ngày mai cô giáo đang nghỉ.
+Predict: Ngày mai cô giáo đang nghỉ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: toi can dong_ho khong
+Target: Tôi có cần đồng hồ không?
+Predict: Tôi có cần đồng hồ không?
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: nam ban dang mua_sam
+Target: Năm bạn đang mua sắm.
+Predict: Năm bạn đang mua sắm.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: mua_he anh nghi
+Target: Mùa hè anh nghỉ.
+Predict: Mùa hè anh nghỉ.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------
+Gloss: thu_ba toi dang lam_bai_tap
+Target: Thứ ba tôi đang làm bài tập.
+Predict: Thứ ba tôi đang làm bài tập.
+Exact Match: 1
+Token F1: 1.0000
+ROUGE-L: 1.0000
+--------------------------------------------------------------------------------

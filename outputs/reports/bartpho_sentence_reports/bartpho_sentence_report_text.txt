@@ -1,0 +1,9 @@
+Test samples: 3276
+Test Loss: 0.0040
+Test Perplexity: 1.0040
+Exact Match: 0.9942
+BLEU: 99.7848
+ROUGE-L: 0.9990
+chrF: 99.8693
+Token F1: 0.9980
+Similarity Ratio: 0.9991

@@ -1,0 +1,15 @@
+{
+  "num_test_samples": 3276,
+  "test_loss": 0.004000736824804776,
+  "test_perplexity": 1.0040087504556208,
+  "exact_match": 0.9942,
+  "bleu": 99.7848,
+  "rouge_l": 0.999,
+  "chrf": 99.8693,
+  "token_f1": 0.998,
+  "similarity_ratio": 0.9991,
+  "model": "BARTpho",
+  "task": "Gloss sequence to Vietnamese sentence generation",
+  "dataset": "VSL Vietnamese NLP Dataset v4 Mega",
+  "note": "Metrics recreated from completed full evaluation output in Colab."
+}

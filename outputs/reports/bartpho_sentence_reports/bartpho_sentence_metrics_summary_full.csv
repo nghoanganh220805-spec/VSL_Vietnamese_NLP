@@ -1,0 +1,10 @@
+﻿metric,value,description
+num_test_samples,3276.0,Số mẫu trong tập test
+test_loss,0.004000736824804776,Loss trung bình trên tập test
+test_perplexity,1.0040087504556208,Perplexity trên tập test
+exact_match,0.9942,Tỷ lệ câu dự đoán trùng hoàn toàn câu chuẩn
+bleu,99.7848,Độ tương đồng n-gram giữa câu dự đoán và câu chuẩn
+rouge_l,0.999,Độ trùng chuỗi con dài nhất
+chrf,99.8693,Độ tương đồng cấp ký tự
+token_f1,0.998,Độ trùng token/từ
+similarity_ratio,0.9991,Độ tương đồng chuỗi tổng quát
